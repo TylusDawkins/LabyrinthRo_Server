@@ -1,6 +1,7 @@
 #
 # Table structure for table `item_db`
 #
+USE ragnarok;
 
 DROP TABLE IF EXISTS `item_db`;
 CREATE TABLE `item_db` (

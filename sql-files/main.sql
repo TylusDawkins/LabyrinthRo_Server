@@ -2,6 +2,8 @@
 -- Table structure for table `acc_reg_num`
 --
 
+USE ragnarok;
+
 CREATE TABLE IF NOT EXISTS `acc_reg_num` (
   `account_id` int(11) unsigned NOT NULL default '0',
   `key` varchar(32) binary NOT NULL default '',

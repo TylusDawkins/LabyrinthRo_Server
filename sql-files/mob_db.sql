@@ -1,6 +1,7 @@
 #
 # Table structure for table `mob_db`
 #
+USE ragnarok;
 
 DROP TABLE IF EXISTS `mob_db`;
 CREATE TABLE `mob_db` (

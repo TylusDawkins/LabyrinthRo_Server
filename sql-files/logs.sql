@@ -2,6 +2,8 @@
 -- Table structure for table `atcommandlog`
 --
 
+USE log;
+
 CREATE TABLE IF NOT EXISTS `atcommandlog` (
   `atcommand_id` mediumint(9) unsigned NOT NULL auto_increment,
   `atcommand_date` datetime NOT NULL,
