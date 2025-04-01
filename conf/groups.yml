@@ -93,6 +93,7 @@ Body:
       langtype: true
     Permissions:
       attendance: false
+      all_commands: true
   - Id: 2
     Name: Support
     Inherit:
